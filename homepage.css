@@ -6,4 +6,7 @@ font-family: Arial, serif:
   text-align: center;
   font-family: Arial, serif;
 }
+#img {
+  border-radius: 50%
+}
 
