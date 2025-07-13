@@ -1,6 +1,6 @@
 body {
   background-color: purple;
-font-family: Arial, serif:
+font-family: Arial, serif;
 }
 #hero {
   text-align: center;
@@ -8,5 +8,20 @@ font-family: Arial, serif:
 }
 #img {
   border-radius: 50%
+}
+.main-nav {
+  background-color: #333;
+  padding: 1rem;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.main-nav a {
+  color: white;
+  text-decoration: none;
 }
 
