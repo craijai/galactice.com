@@ -1,8 +1,12 @@
 body {
-  background-color: purple
-
+  background-color: purple;
+font-family: Arial, serif:
 }
-.h1 {
-  font-family: Arial, serif
-
+#hero {
+  text-align: center;
+  font-family: Arial, serif;
 }
+#img {
+  border-radius: 50%
+}
+
